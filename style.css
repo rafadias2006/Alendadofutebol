@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background: #0647c0
+}
+
+em strong {
+    color: rgb(255, 250, 250);
+}
+#banner {
+    width: 70%;
+    
+}
+
+.principal
+h1{
+text-align: center;
+height: 80x;
+border: 10px solid #0004ff
+pading-top: 20px;
+margin-left: 15px;
+}
+.itens {
+ font-size: 30px;
+ font-style: italic;
+ color: rgb(175, 182, 175);
+
+}
+
+.beneficios{
+  background: rgb(138, 137, 137);
+  padding: 90px;   
+
+ }
+
+ h2 { 
+   text-align: center;
+
+ }
+ ul {
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+    
+ }
